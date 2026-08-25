@@ -424,6 +424,17 @@ npx hardhat test
 
 ---
 
+# 📸 Application Screenshots
+
+![Election Results and Tally Board](images/1.png)
+![Voter Ballot and Candidate Selection](images/2.png)
+![Voter Registry and Participation Status](images/3.png)
+![Merkle Whitelist and Eligibility Proofs](images/4.png)
+![Blockchain Ledger and Event Explorer](images/5.png)
+![Decentralized Ballot Confirmation Certificate](images/6.png)
+![Successful On-Chain Ballot Confirmation](images/7.png)
+
+---
 ## ⚠️ Limitations
 
 - **Key Management**: Users must securely hold their private keys; loss of private key results in loss of voting credentials.
@@ -452,8 +463,15 @@ Through this project, developers and students will master:
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-**Jui Ramteke**  
-- 📧 Email: [juiramteke20@gmail.com](mailto:juiramteke20@gmail.com)  
-- 🌐 Application: [Blockchain-Based Voting DApp](https://ais-dev-ficc5exqb6u4x5q73hwrke-1059954973333.asia-southeast1.run.app)
+## Jui Ramteke
+
+**GitHub:**  
+https://github.com/Jui-Ramteke
+
+**LinkedIn:**  
+https://www.linkedin.com/in/jui-ramteke/
+
+**Instagram:**  
+https://www.instagram.com/jui_ramteke_/
