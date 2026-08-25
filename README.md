@@ -432,7 +432,7 @@ The following screenshots demonstrate the major modules and workflows of the **B
 
 Displays the final election statistics, voter turnout, total ballots cast, candidate-wise vote distribution, and on-chain counting integrity.
 
-![Election Results and Tally Board](images/1.png)
+![Election Results and Tally Board](image/1.png)
 
 ---
 
@@ -440,7 +440,7 @@ Displays the final election statistics, voter turnout, total ballots cast, candi
 
 The voter dashboard allows an eligible voter to select a candidate from the official ballot. The system verifies the voter's registration and Merkle whitelist proof before allowing the vote to be submitted.
 
-![Voter Ballot and Candidate Selection](images/2.png)
+![Voter Ballot and Candidate Selection](image/2.png)
 
 ---
 
@@ -448,7 +448,7 @@ The voter dashboard allows an eligible voter to select a candidate from the offi
 
 The Admin Authority dashboard displays whitelisted voter wallet addresses, eligibility status, ballot status, and double-voting protection information.
 
-![Voter Registry and Participation Status](images/3.png)
+![Voter Registry and Participation Status](image/3.png)
 
 ---
 
@@ -456,7 +456,7 @@ The Admin Authority dashboard displays whitelisted voter wallet addresses, eligi
 
 The Merkle Whitelist module demonstrates cryptographic voter eligibility verification. Wallet addresses can be checked against the current on-chain Merkle Root using generated Merkle proofs.
 
-![Merkle Tree Voter Whitelist and Eligibility Proof](images/4.png)
+![Merkle Tree Voter Whitelist and Eligibility Proof](image/4.png)
 
 ---
 
@@ -464,7 +464,7 @@ The Merkle Whitelist module demonstrates cryptographic voter eligibility verific
 
 The Blockchain Explorer displays mined transactions, block numbers, transaction execution status, gas consumption, transaction hashes, and smart contract events such as contract deployment and election lifecycle events.
 
-![Blockchain Ledger and Event Explorer](images/5.png)
+![Blockchain Ledger and Event Explorer](image/5.png)
 
 ---
 
@@ -472,7 +472,7 @@ The Blockchain Explorer displays mined transactions, block numbers, transaction 
 
 After successfully casting a vote, the system generates a cryptographic ballot confirmation certificate containing the wallet address, transaction hash, block height, timestamp, nullifier hash, Merkle verification status, and QR-based proof verification.
 
-![Decentralized Ballot Confirmation Certificate](images/6.png)
+![Decentralized Ballot Confirmation Certificate](image/6.png)
 
 ---
 
@@ -480,7 +480,7 @@ After successfully casting a vote, the system generates a cryptographic ballot c
 
 After a valid ballot is submitted, the voter receives confirmation that the vote has been successfully recorded in the Solidity smart contract. The system also activates double-voting protection using the voter's `hasVoted` state.
 
-![Successful On-Chain Ballot Confirmation](images/7.png)
+![Successful On-Chain Ballot Confirmation](image/7.png)
 
 ---
 
