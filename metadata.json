@@ -1,0 +1,6 @@
+{
+  "name": "Blockchain-Based Voting System",
+  "description": "An educational decentralized voting platform featuring Solidity smart contracts, Merkle proof eligibility, Ethers.js integration, role-based dashboards, and complete Hardhat/Remix testing suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
